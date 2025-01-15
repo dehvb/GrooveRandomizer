@@ -14,3 +14,8 @@
 .cxx
 local.properties
 .cursorrules
+# Resource files
+/app/src/main/res/raw/
+
+# stuff
+/eimer
